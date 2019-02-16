@@ -11,3 +11,4 @@ puts my_details_another [:name]
 
 puts my_details.keys
 puts my_details.values
+
